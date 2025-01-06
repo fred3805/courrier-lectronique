@@ -12,8 +12,9 @@ Nom du serveur IMAP configuré pour ce compte :    Port utilisé pour se connect
 
 ![Capture d’écran 2025-01-06 104810](https://github.com/user-attachments/assets/aef6c04e-d1a3-4bad-b5f9-6b92dfc44fcb)  
 
-L'emplacement du stockage du dossier Mes archives sur ton ordinateur depuis mailo
-![Capture d’écran 2025-01-06 110345](https://github.com/user-attachments/assets/6c182de4-8fbc-4efd-9adf-93efe8a7f9eb)  
+L'![Capture d’écran 2025-01-06 134659](https://github.com/user-attachments/assets/cca9c274-2180-4fb9-9adf-f10fb93e33ec)
+emplacement du stockage du dossier Mes archives sur ton ordinateur depuis mailo  
+
 
 L'emplacement du stockage du dossier Mes archives sur mon ordinateur  
 ![Capture d’écran 2025-01-06 131237](https://github.com/user-attachments/assets/01d091e5-aeaa-4200-ad49-58bbb60eb4b2)
