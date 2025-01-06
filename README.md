@@ -28,4 +28,4 @@ Protocole utilisé pour la connexion (IMAP en clair, STARTTLS ou IMAPS)
 
 On utilise IMAPS avec le protocole TCP et le port 143 par defaut  
 
-Le protocole SMTP s'appuie en général sur TCP mais la on s'appuie sur le protocole en combinaison avec TLS et ainsi assurer la confidentialité des échanges.
+Le protocole SMTP ( port: 465 ) s'appuie en général sur TCP mais la on s'appuie sur le protocole en combinaison avec TLS et ainsi assurer la confidentialité des échanges.
